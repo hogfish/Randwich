@@ -1,0 +1,48 @@
+---
+bread:
+  - multigrain bread
+  - white bread
+  - a multigrain roll
+  - a white roll
+  - a plain wrap
+  - a spinach wrap
+  - focaccia
+  - Turkish bread
+salads:
+  - tomato
+  - carrot
+  - capsicum
+  - cucumber
+  - mushroom
+  - eggplant
+  - sweet potato
+  - coleslaw
+leaves:
+  - lettuce
+  - spinach
+  - rocket
+cheese:
+  - brie
+  - tasty cheese
+  - swiss cheese
+condiments:
+  - grain mustard
+  - tomato relish
+  - cranberry sauce
+  - mayo
+  - mustard
+  - salt and pepper
+  - cream cheese
+  - avocado
+  - hommus
+meat:
+  - ham
+  - roast beef
+  - bacon
+poultry:
+  - homemade chicken strips
+  - chicken tenders
+  - turkey
+fish:
+  - tuna
+  - smoked salmon
